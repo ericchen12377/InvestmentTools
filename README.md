@@ -1,2 +1,2 @@
 # InvestmentTools
-Tools for Investment
+Tools for financial analysis and investment.
